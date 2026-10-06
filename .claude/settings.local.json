@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit -m 'Initial manuscript framework for 3D NAND Gate Line Slit Etch ebook \\(Book #17\\) *)"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Local build/output
+build/
+dist/
+*.pdf
+*.epub
+
+# Dependencies
+node_modules/
+*.log
+
+# Temporary files
+*.tmp
+.temp/
