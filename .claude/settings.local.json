@@ -3,7 +3,17 @@
     "allow": [
       "Bash(git init *)",
       "Bash(git add *)",
-      "Bash(git commit -m 'Initial manuscript framework for 3D NAND Gate Line Slit Etch ebook \\(Book #17\\) *)"
+      "Bash(git commit -m 'Initial manuscript framework for 3D NAND Gate Line Slit Etch ebook \\(Book #17\\) *)",
+      "Bash(git commit -m 'Complete Chapter 4: Plasma-Induced Damage and Gate Oxide Effects \\(~4200 words\\) *)",
+      "Bash(git commit -m 'Complete Chapter 5: Electrode Design for Ultra-High Aspect Ratios \\(~4500 words\\) *)",
+      "Bash(git commit -m 'Complete Chapter 6: Gas Distribution Systems for Deep Trenches \\(~4800 words\\) *)",
+      "Bash(git commit -m 'Complete Chapter 8: Chamber Passivation and Dielectric Coating Strategies \\(~4200 words\\) *)",
+      "Bash(git commit -m 'Complete Chapter 9: Advanced Matching Networks for Deep Trench Stability \\(~4300 words\\) *)",
+      "Bash(git commit -m 'Complete Chapter 11: Ion Energy and Flux in Vertical Geometries \\(~4200 words\\) *)",
+      "Bash(git commit -m 'Complete Chapter 12: Selectivity Mechanisms in Multi-Layer Stacks \\(~4800 words\\) *)",
+      "Bash(git commit -m 'Complete Chapter 13: Sidewall Passivation and Scalloping Control \\(~4600 words\\) *)",
+      "Bash(git commit -m 'Complete Chapter 14: Temperature Effects on Ultra-High Aspect Ratio Performance \\(~5100 words\\) *)",
+      "Bash(git commit -m 'Add local Claude project settings *)"
     ]
   }
 }
